@@ -1,5 +1,6 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEEs are where you can communicate what your project is and how to use it.
+This program consists of face-detection models, using Haar Cascade and Deep Neural Network (DNN)
+Click 'X' to take a snap shot of your face.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Devbirchand Thakuri
