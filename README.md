@@ -9,4 +9,4 @@ The image above is taken from upon clicking the button 'X'. This one is a produc
 <img width="561" alt="Screenshot 2024-02-17 at 21 23 17" src="https://github.com/llombardii/facefinder/assets/98316532/494d05b0-b018-4ff0-81f3-8cc0dec1fcfe">
 
 This is the sample of detection using the DNN algorithm. The DNN algorithm is more efficient compared to Haar Cascade as it can detect faces at any angle or size.
-<a href https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html>Haar Cascade</a>
+<a href https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html> Haar Cascade </a>
