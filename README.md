@@ -11,4 +11,5 @@ The image above is taken from upon clicking the button 'X'. This one is a produc
 This is the sample of detection using the DNN algorithm. The DNN algorithm is more efficient compared to Haar Cascade as it can detect faces at any angle or size.
 
 Haar Cascade Classifier: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+
 YOLO Deep Neural Network: https://docs.opencv.org/4.x/da/d9d/tutorial_dnn_yolo.html
