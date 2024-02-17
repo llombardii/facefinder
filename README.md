@@ -2,4 +2,4 @@
 
 This program is developed in **Juypter Notebook**, using two different algorithms; **Haar Cascade** and **Deep Neural Network**. Both of the programs have the feature to capture the faces upon clicking the button 'X' on the keyboard. The clicked picture will be saved as a png file in the program folder.
 
-<img width="1440" alt="Screenshot 2023-12-13 at 16 07 33" src="https://github.com/llombardii/facefinder/assets/98316532/42030ee9-b7f6-4850-a485-ac2bedd9e76d">
+<img width="561" alt="Screenshot 2024-02-17 at 21 23 17" src="https://github.com/llombardii/facefinder/assets/98316532/494d05b0-b018-4ff0-81f3-8cc0dec1fcfe">
